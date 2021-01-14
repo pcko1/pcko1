@@ -5,6 +5,6 @@ ___
 [![My github stats](https://github-readme-stats.vercel.app/api?username=pcko1&show_icons=true&theme=tokyonight)](https://github.com/pcko1/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pcko1&theme=tokyonight&layout=compact)](https://github.com/pcko1/github-readme-stats)
 
-I choose to code mostly in `python` and have diverse experience with packages in math/AI/ML (`numpy`, `pandas`, `scipy`, `tensorflow.keras`, `torch`, `sklearn`), chemistry (`rdkit`), data visualization (`matplotlib`, `seaborn`), web/crawling (`requests`, `bs4`), technical analysis (`ta`) and CI/CD (`unittest`, `coverage`) applications. Also experienced in `bash`, `dockerfile`, Slurm, `.github/workflows` scripting and programming of microcontrollers/microprocessors.
+I choose to code mostly in `python` and have diverse experience with packages in math/AI/ML (`numpy`, `pandas`, `scipy`, `tensorflow.keras`, `torch`, `sklearn`), chemistry (`rdkit`), data visualization (`matplotlib`, `seaborn`), web/crawling (`requests`, `bs4`), technical analysis (`ta`), chatbots (`python-telegram-bot`) and CI/CD (`unittest`, `coverage`) applications. Also experienced in `bash`, `dockerfile`, Slurm, `.github/workflows` scripting and programming of microcontrollers/microprocessors.
 
 
