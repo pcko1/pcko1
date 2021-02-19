@@ -7,4 +7,4 @@ ___
 
 I choose to code mostly in `python` and have diverse experience with packages for math/AI/ML (`numpy`, `pandas`, `scipy`, `tensorflow.keras`, `torch`, `sklearn`), chemistry (`rdkit`), data visualization (`matplotlib`, `seaborn`), crawling (`requests`, `bs4`), technical analysis (`ta`) and CI/CD (`unittest`, `coverage`) applications. Also experienced in scripting with `bash`, `Dockerfile`, and `.github/workflows`.
 
-I currently maintain open-source python APIs for two blockchain explorers; [EtherScan.io](https://github.com/pcko1/etherscan-python) (Ethereum Explorer) and [BscScan.com](https://github.com/pcko1/bscscan-python) (Binance Smart Chain Explorer).
+I currently maintain the open-source python APIs for two blockchain explorers; [EtherScan.io](https://github.com/pcko1/etherscan-python) (Ethereum Explorer) and [BscScan.com](https://github.com/pcko1/bscscan-python) (Binance Smart Chain Explorer).
